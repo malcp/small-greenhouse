@@ -1,0 +1,12 @@
+N,Greenhouse plastics,,,,
+M,Corrugated Plastic 4mm thick,,,,
+@,comment,,,,
+@,Length,Width,Quantity,,
+S,1200,800,100,,
+K,0,,,,
+@,Length,Width,Quantity,Label,Can turn?
+P,800,750,2,back,y
+P,400,750,4,sides,y
+P,400,750,4,doors,y
+P,400,400,1,roof,y
+P,800,600,1,window,y
