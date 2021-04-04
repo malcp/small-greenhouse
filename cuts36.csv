@@ -9,6 +9,7 @@ P,704,11,floorWidth.FCStd,y
 P,400,13,floorDeep.FCStd,y
 P,1428,4,innerHeight.FCStd,y
 P,464,6,roofHipotenusa.FCStd,y
+P,400,4,backTorque.FCStd,y
 P,400,6,roofBase.FCStd,y
 P,800,2,windowFrameWidth.FCStd,y
 P,586,2,windowFrameHeight.FCStd,y
