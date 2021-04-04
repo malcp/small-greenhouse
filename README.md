@@ -1,5 +1,5 @@
 # Small parametric greenhouse
-Small greenhouse with four shelves, three of them removable, that can be built using very basic tools and sized to fit into almost any place.
+Small greenhouse with four shelves, three of them removable, that can be built using very basic tools and sized to fit into almost any space.
 
 The full assembly is in draws/Main.FCStd. It also contains the spreadsheet used to define the sizes.
 
