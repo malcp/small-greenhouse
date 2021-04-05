@@ -7,5 +7,6 @@ K,1.5,,,
 @,Length,Quantity,Label,Can turn?
 P,704,18,thinInnerWidth.FCStd,y
 P,400,6,thinOuterDeep.FCStd,y
-P,1500,4,thinDoorFrameHeight.FCStd,y
+P,648,3,shelfZ.FCStd,y
+P,1404,4,thinDoorFrameHeight.FCStd,y
 P,395,4,thinDoorFrameWidth.FCStd,y
