@@ -3,10 +3,10 @@ M,Pine 23x48x4200,,,
 @,comment,,,
 @,Length,Quantity,,
 S,4200,100,,
-K,1.5,,,
+K,3,,,
 @,Length,Quantity,Label,Can turn?
 P,704,18,thinInnerWidth.FCStd,y
 P,400,6,thinOuterDeep.FCStd,y
 P,648,3,shelfZ.FCStd,y
-P,1404,4,thinDoorFrameHeight.FCStd,y
-P,395,4,thinDoorFrameWidth.FCStd,y
+P,1500,4,thinDoorFrameHeight.FCStd,y
+P,299,4,thinDoorFrameWidth.FCStd,y
